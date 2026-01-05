@@ -1,1 +1,1 @@
-# algoplay
+https://idea-play.lovable.app
